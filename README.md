@@ -22,7 +22,7 @@ the code and fix the code without any errors.
 4) I Revised the code once after completion of execution.
 5) Finally, I attached my code to the file.
 
-# TECH STACK USED:
+# TECH STACK:
 ❖ SQL
 ❖ Development tool – MYSQL Workbench version 8.0.30.
 The main purpose of using MySQL workbench is that it provides the console to 
